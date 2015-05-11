@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">OnceScheduleBook</string>
+    <string name="action_settings">联系作者</string>
+    <string name="Instructions">此项功能处于测试阶段，所有时间点均按照华中科技大学课程时间表设定</string>
+    <string name="welcome">这个程序员很懒，没有想好欢迎界面怎么写..\p
+        总之任何意见或建议联系onebobo@hust.edu.cn就好啦！</string>
+
+</resources>
